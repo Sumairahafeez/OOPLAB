@@ -1,0 +1,15 @@
+Question 1
+Output of the given code is as follow:
+Sarmad
+Sarmad
+EXPLANATION:
+lets solve it step wise:
+Step 1: Creates a new memory in heap named student.
+Step2-Step5: It stores values as Ali, 300, 800, 980 in the memory cells of
+the cells of this memory.
+Step 6: A new memory cell named student2 is created which
+now refers to the memory cell of student hence it has teh address
+of student and act as copy.
+Step 7: Student2 is refering to student any value entered in
+student2 will cause change in the student cell but the student2
+cell will remain the same.

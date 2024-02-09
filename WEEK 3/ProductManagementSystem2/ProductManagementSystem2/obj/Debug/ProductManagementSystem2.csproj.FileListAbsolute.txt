@@ -1,0 +1,7 @@
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\obj\Debug\ProductManagementSystem2.csproj.AssemblyReference.cache
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\obj\Debug\ProductManagementSystem2.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\bin\Debug\ProductManagementSystem2.exe.config
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\bin\Debug\ProductManagementSystem2.exe
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\bin\Debug\ProductManagementSystem2.pdb
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\obj\Debug\ProductManagementSystem2.exe
+D:\2nd semester\OOPLAB\ProductManagementSystem2\ProductManagementSystem2\obj\Debug\ProductManagementSystem2.pdb

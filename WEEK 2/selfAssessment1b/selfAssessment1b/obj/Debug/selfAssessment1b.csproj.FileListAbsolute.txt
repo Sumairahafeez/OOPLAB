@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\bin\Debug\selfAssessment1b.exe.config
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\bin\Debug\selfAssessment1b.exe
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\bin\Debug\selfAssessment1b.pdb
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\obj\Debug\selfAssessment1b.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\obj\Debug\selfAssessment1b.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\obj\Debug\selfAssessment1b.exe
+D:\2nd semester\OOP Lab\selfAssessment1b\selfAssessment1b\obj\Debug\selfAssessment1b.pdb

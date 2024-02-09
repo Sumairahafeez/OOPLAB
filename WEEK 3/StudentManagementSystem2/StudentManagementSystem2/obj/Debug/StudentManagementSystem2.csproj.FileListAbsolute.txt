@@ -1,0 +1,7 @@
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\bin\Debug\StudentManagementSystem2.exe.config
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\bin\Debug\StudentManagementSystem2.exe
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\bin\Debug\StudentManagementSystem2.pdb
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\obj\Debug\StudentManagementSystem2.csproj.AssemblyReference.cache
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\obj\Debug\StudentManagementSystem2.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\obj\Debug\StudentManagementSystem2.exe
+D:\2nd semester\OOPLAB\StudentManagementSystem2\StudentManagementSystem2\obj\Debug\StudentManagementSystem2.pdb

@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\bin\Debug\copyConstructor.exe.config
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\bin\Debug\copyConstructor.exe
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\bin\Debug\copyConstructor.pdb
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\obj\Debug\copyConstructor.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\obj\Debug\copyConstructor.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\obj\Debug\copyConstructor.exe
+D:\2nd semester\OOP Lab\copyConstructor\copyConstructor\obj\Debug\copyConstructor.pdb

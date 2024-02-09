@@ -1,0 +1,7 @@
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\obj\Debug\Calculator(Task1a).csproj.AssemblyReference.cache
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\obj\Debug\Calculator(Task1a).csproj.CoreCompileInputs.cache
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\bin\Debug\Calculator(Task1a).exe.config
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\bin\Debug\Calculator(Task1a).exe
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\bin\Debug\Calculator(Task1a).pdb
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\obj\Debug\Calculator(Task1a).exe
+D:\2nd semester\OOPLAB\Calculator(Task1a)\Calculator(Task1a)\obj\Debug\Calculator(Task1a).pdb
