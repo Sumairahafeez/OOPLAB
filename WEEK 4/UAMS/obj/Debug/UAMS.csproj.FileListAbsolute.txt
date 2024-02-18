@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\bin\Debug\UAMS.exe.config
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\bin\Debug\UAMS.exe
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\bin\Debug\UAMS.pdb
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\obj\Debug\UAMS.exe
+D:\2nd semester\OOP Lab\WEEK 4\UAMS\obj\Debug\UAMS.pdb

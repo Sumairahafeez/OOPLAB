@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 4\Book\bin\Debug\Book.exe.config
+D:\2nd semester\OOP Lab\WEEK 4\Book\bin\Debug\Book.exe
+D:\2nd semester\OOP Lab\WEEK 4\Book\bin\Debug\Book.pdb
+D:\2nd semester\OOP Lab\WEEK 4\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 4\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 4\Book\obj\Debug\Book.exe
+D:\2nd semester\OOP Lab\WEEK 4\Book\obj\Debug\Book.pdb
