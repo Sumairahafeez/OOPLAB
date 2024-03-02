@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe.config
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\bin\Debug\StoreManagementSystem.pdb
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\obj\Debug\StoreManagementSystem.exe
+D:\2nd semester\OOP Lab\WEEK 5\StoreManagementSystem\obj\Debug\StoreManagementSystem.pdb

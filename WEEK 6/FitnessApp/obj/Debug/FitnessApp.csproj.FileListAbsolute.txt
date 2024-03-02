@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\bin\Debug\FitnessApp.exe.config
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\bin\Debug\FitnessApp.exe
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\bin\Debug\FitnessApp.pdb
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\obj\Debug\FitnessApp.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\obj\Debug\FitnessApp.exe
+D:\2nd semester\OOP Lab\WEEK 6\FitnessApp\obj\Debug\FitnessApp.pdb

@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\bin\Debug\MusicStreamingService.exe.config
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\bin\Debug\MusicStreamingService.exe
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\bin\Debug\MusicStreamingService.pdb
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\obj\Debug\MusicStreamingService.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\obj\Debug\MusicStreamingService.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\obj\Debug\MusicStreamingService.exe
+D:\2nd semester\OOP Lab\WEEK 6\MusicStreamingService\obj\Debug\MusicStreamingService.pdb

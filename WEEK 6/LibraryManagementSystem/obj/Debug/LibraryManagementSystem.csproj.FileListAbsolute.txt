@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\2nd semester\OOP Lab\WEEK 6\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

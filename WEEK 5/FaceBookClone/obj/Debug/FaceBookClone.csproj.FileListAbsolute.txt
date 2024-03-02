@@ -1,0 +1,7 @@
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\obj\Debug\FaceBookClone.csproj.AssemblyReference.cache
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\obj\Debug\FaceBookClone.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\bin\Debug\FaceBookClone.exe.config
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\bin\Debug\FaceBookClone.exe
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\bin\Debug\FaceBookClone.pdb
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\obj\Debug\FaceBookClone.exe
+D:\2nd semester\OOP Lab\WEEK 5\FaceBookClone\obj\Debug\FaceBookClone.pdb
